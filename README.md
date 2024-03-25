@@ -1,7 +1,19 @@
 
 # Pizza-Sales Analysis
+## Power BI Dashboard
 
-### Dashboard Link : END TO END PJ.pbix
+#### (1). Home Dashboard
+ ![dash 1](https://github.com/rahulmaurya255/Pizza_sales_analysis_bi/assets/155320538/5d52bd4f-1e5e-45f5-bea1-a1a50a0136e6)
+
+
+
+
+
+
+#### (2). Worst Selling/ Best Selling
+
+ ![dash 2](https://github.com/rahulmaurya255/Pizza_sales_analysis_bi/assets/155320538/f236e92a-018a-40aa-ad5d-41aab18cafcb)
+
 
 ## Problem Statement
 
